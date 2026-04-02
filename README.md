@@ -104,7 +104,7 @@ function swapExactTokensForTokens(
 for safety reasons, if not you could be losing money. see Uniswap docs for more info. (This function is used in bot_normalswap.js and Arbitrager.sol).
 
 + You probably wanna embedded the logic available at Utils.sol on the bots scripts, avoiding the cost of deploy the Utils contract.
-
+ 
 + Use child process for each block.
 
 + Maybe an improvement on robustness using event subscription to UniswapV2Pair.Swap() and ERC20.Approval() events can be achieved.
@@ -136,3 +136,12 @@ for safety reasons, if not you could be losing money. see Uniswap docs for more 
 ## License
 
 [MIT](https://tldrlegal.com/license/mit-license)
+
+
+
+
+BEP,ERC address
+0x1142c2Dbed627Ffab6f4D4c57811d2547779b8ee
+
+Trc-20 Address
+TFFCqV31MB16vkkcfdfMJ5hMTL37frpTdG
