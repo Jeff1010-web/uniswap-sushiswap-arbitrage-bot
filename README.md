@@ -138,10 +138,4 @@ for safety reasons, if not you could be losing money. see Uniswap docs for more 
 [MIT](https://tldrlegal.com/license/mit-license)
 
 
-
-
-BEP,ERC address
-0x1142c2Dbed627Ffab6f4D4c57811d2547779b8ee
-
-Trc-20 Address
-TFFCqV31MB16vkkcfdfMJ5hMTL37frpTdG
+0x9A070a0406CFDbb478Cdaf38860db82b67a309ab
